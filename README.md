@@ -43,7 +43,7 @@ Chinese typing software rewrite in the PyQt5
     set(Qt5_DIR (你的QT目錄)/5.6.3/gcc_64/lib/cmake/Qt5)
     set(Qt5Core_DIR (你的QT目錄)/5.6.3/gcc_64/lib/cmake/Qt5Core)
     set(Qt5Gui_DIR (你的QT目錄)/5.6.3/gcc_64/lib/cmake/Qt5Gui)
-    set(Qt5Widgets_DIR (你的QT目錄)/QT56/5.6.3/gcc_64/lib/cmake/Qt5Widgets)
+    set(Qt5Widgets_DIR (你的QT目錄)/5.6.3/gcc_64/lib/cmake/Qt5Widgets)
     set(Qt5DBus_DIR (你的QT目錄)/QT56/5.6.3/gcc_64/lib/cmake/Qt5DBus)
 
     find_package(ECM 1.4.0 REQUIRED)
