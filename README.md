@@ -27,6 +27,9 @@ macOS的電腦目前沒辦法那麼快取得，因此macOS的打包作業與單�
 
 ![Ubuntu MATE 01](https://user-images.githubusercontent.com/46966555/223390239-227d77af-3ee9-4441-9619-b3f0eb31024a.png)
 
+![macOS Catalina](https://user-images.githubusercontent.com/46966555/224923074-c7e01aa5-3aa1-4faa-8e6e-be12403160f5.png)
+
+
 ## 打包方式(Linux)
 
 ### 需準備(最後面括號為本Repo使用的版本)：
@@ -235,3 +238,4 @@ python setup.py py2app
 ```
 
 即可在dist資料夾下發現打包好的app
+![截圖 2023-03-14 15 08 24](https://user-images.githubusercontent.com/46966555/224922987-35d683b8-90ca-4ab4-a71b-36cbdf952487.png)
