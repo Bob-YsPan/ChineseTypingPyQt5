@@ -190,3 +190,48 @@ Exception:
 *   指令順利完成後，應該可以在資料夾中的`dist`資料夾內找到打包好的單個`.exe`執行檔
 
 ![image](https://user-images.githubusercontent.com/46966555/223388902-e7303e81-f10b-481d-9da8-877f1261a3f8.png)
+
+## 打包方式(macOS Catalina，python 3.5)
+
+### 需準備
+
+1.  [Command Line Tools for Xcode 11.5](https://download.developer.apple.com/Developer_Tools/Command_Line_Tools_for_Xcode_11.5/Command_Line_Tools_for_Xcode_11.5.dmg)(From Apple Developers site，需要登入)
+2.  [Python 3.5.4](https://www.python.org/downloads/release/python-354/)(From Python Site)
+
+
+### 更新pip(python 3.5的舊版pip已經不堪使用)
+
+```
+curl https://bootstrap.pypa.io/pip/3.5/get-pip.py | python3
+```
+
+### 打包過程
+
+#### 安裝虛擬環境
+
+```
+pip3 install virtualenv
+mkdir ChineseTypingQT5
+
+# 將這個repo的檔案下載下來，刪除`.ui`的檔案，解開到`ChineseTypingQt5`資料夾(你剛剛mkdir的資料夾名稱)
+
+cd ChineseTypingQT5
+python3 -m virtualenv TypMenv
+source TypMenv/bin/activate
+```
+
+#### 安裝相關的函式庫
+
+```
+pip install PyQt5==5.8.2
+pip install py2app==0.25
+```
+
+#### 打包
+
+```
+py2applet --make-setup Main.py
+python setup.py py2app
+```
+
+即可在dist資料夾下發現打包好的app
