@@ -17,7 +17,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>Chinese Typing PyQt v1.0</string>
+   <string>Chinese Typing PyQt v1.1</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <property name="font">

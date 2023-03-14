@@ -107,7 +107,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Chinese Typing PyQt v1.0"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Chinese Typing PyQt v1.1"))
         self.chArt_Btn.setText(_translate("MainWindow", "選擇文章..."))
         self.testToggle.setText(_translate("MainWindow", "開始測驗"))
         self.remLabel.setText(_translate("MainWindow", "10:00"))
