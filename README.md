@@ -237,5 +237,5 @@ py2applet --make-setup Main.py
 python setup.py py2app
 ```
 
-即可在dist資料夾下發現打包好的app
+即可在dist資料夾下發現打包好的app  
 ![截圖 2023-03-14 15 08 24](https://user-images.githubusercontent.com/46966555/224922987-35d683b8-90ca-4ab4-a71b-36cbdf952487.png)
