@@ -2,8 +2,8 @@
 Chinese typing software rewrite in the PyQt5
 
 這個Repo包括了製作時的UI檔案與程式碼，絕大多數的程式邏輯皆為從[wxChineseTypingSoftware](https://github.com/Bob-YsPan/wxChineseTypingSoftware)加以修改而成。  
-如果需針對整個環境進行修改，可以使用`--appimage-extract`指令獲得開發環境修改好再打包回去  
   
+Linux下如果需針對整個環境進行修改，可以使用`--appimage-extract`指令獲得開發環境修改好再打包回去  
 macOS的電腦目前沒辦法那麼快取得，因此macOS的打包作業與單一執行檔會需要等待一陣子後推出
 
 ## 相比舊版優勢
