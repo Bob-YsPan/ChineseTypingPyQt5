@@ -16,7 +16,7 @@ macOS的電腦目前沒辦法那麼快取得，因此macOS的打包作業與單�
 ## 題庫
 
 *   請參考[wxChineseTypingSoftware](https://github.com/Bob-YsPan/wxChineseTypingSoftware)底下的題庫與來源參考，有空會再製作更多的題庫供使用者運用。
-*   亦可自己建立題庫，建議使用全部全型字，單行32個全型字(含空格)，建立UTF-8(Linux，macOS)或是BIG-5(ANSI)的文字檔(簡體中文+Windows請使用GB2312)
+*   亦可自己建立題庫，建議使用全部全型字，單行32個全型字(含空格)，建立UTF-8編碼的文字檔
 
 ## 截圖展示
 
