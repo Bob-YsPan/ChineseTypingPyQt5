@@ -45,7 +45,7 @@ def chArtClicked():
     # Pick article
     debugPrint("Choosing article...")
     # For safe disable start btn
-    ui.testToggle.setEnabled(True)
+    ui.testToggle.setEnabled(False)
     # Open dialog
     fileName = QtWidgets.QFileDialog.getOpenFileName(MainWindow, "Open File",
                                        "./",
