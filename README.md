@@ -29,7 +29,7 @@ macOS電腦目前沒辦法那麼快取得，因此macOS的打包作業與單一�
 
 ![macOS Catalina](https://user-images.githubusercontent.com/46966555/224923074-c7e01aa5-3aa1-4faa-8e6e-be12403160f5.png)
 
-## 給Linux使用者的建議　Tips For Linux User
+## 給Linux使用者的建議 Tips For Linux User
 
 1.  請先降版成Fcitx 4，全形字元的支援度比較完整(Fcitx 5的Chewing還缺乏小鍵盤跟全形框架)
 2.  設定可以打開這三個選項，會得到垂直型態的候選列表(跟Windows體驗比較類似)跟懸浮工具列　　
