@@ -2,9 +2,8 @@
 Chinese typing software rewrite in the PyQt5
 
 這個Repo包括了製作時的UI檔案與程式碼，絕大多數的程式邏輯皆為從[wxChineseTypingSoftware](https://github.com/Bob-YsPan/wxChineseTypingSoftware)加以修改而成。  
-  
-Linux下如果需針對整個環境進行修改，可以使用`--appimage-extract`指令獲得開發環境修改好再打包回去  
-macOS的電腦目前沒辦法那麼快取得，因此macOS的打包作業與單一執行檔會需要等待一陣子後推出
+　　
+macOS的電腦目前沒辦法那麼快取得，因此macOS的打包作業與單一執行檔會需要等待一陣子後推出　　
 
 ## 相比舊版優勢
 
@@ -42,6 +41,8 @@ macOS的電腦目前沒辦法那麼快取得，因此macOS的打包作業與單�
 4.  打字時，直接按下空白鍵即可輸入全形空格，使用`Ctrl + Alt + B`輸入全形英文跟符號(類似Windows新注音在英數+全形字的情況下)，輸入完成再按一次`Ctrl + Alt + B`即可回到中文模式
 
 ## 打包方式(Linux)
+
+### Linux下如果不須更換Python版本等只須小修改內容，可以使用`--appimage-extract`指令獲得開發環境修改好再打包回去 
 
 ### 需準備(最後面括號為本Repo使用的版本)：
 
