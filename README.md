@@ -11,11 +11,11 @@ macOS的電腦目前沒辦法那麼快取得，因此macOS的打包作業與單�
 1.  盡量做到各大平台都能夠打包成獨立運作的檔案(Linux採用Appimage、Windows使用Pyinstaller)
 2.  使用Qt5並改寫大量視窗程式(沿用舊版批閱方式)，獲得更佳的輸入法整合性
 3.  增加儲存成績功能(將成績單部分內容儲存在個人資料夾下的文字檔)，以記錄個人學習狀態
-4.  v1.1之後統一讀取UTF-8格式的題目(以免遇到不同系統的編碼問題)
+4.  **v1.1之後統一讀取UTF-8格式的題目(以免遇到不同系統的編碼問題)**
 
 ## 題庫
 
-*   請參考[wxChineseTypingSoftware](https://github.com/Bob-YsPan/wxChineseTypingSoftware)底下的題庫與來源參考，有空會再製作更多的題庫供使用者運用。
+*   請參考[ChineseTypingArticles](https://github.com/Bob-YsPan/ChineseTypingArticles)底下的題庫與來源參考，有空會再製作更多的題庫供使用者運用。
 *   亦可自己建立題庫，建議使用全部全型字，單行32個全型字(含空格)，建立UTF-8編碼的文字檔
 
 ## 截圖展示
