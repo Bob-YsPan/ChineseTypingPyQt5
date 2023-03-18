@@ -40,6 +40,11 @@ macOS電腦目前沒辦法那麼快取得，因此macOS的打包作業與單一�
     ![未命名3](https://user-images.githubusercontent.com/46966555/225789199-7737ef96-2a27-4c07-afa3-322b01cab5f8.png)　　
 4.  打字時，直接按下空白鍵即可輸入全形空格，使用`Ctrl + Alt + B`輸入全形英文跟符號(類似Windows新注音在英數+全形字的情況下)，輸入完成再按一次`Ctrl + Alt + B`即可回到中文模式
 
+## 給macOS使用者的建議 Tips For macOS User
+
+1.  由於macOS原生的注音輸入法可以輸入全形英數，第三方的輸入框架不見得可以(例如我測試時使用[威注音](https://vchewing.github.io/README.html))，建議兩套輸入法都準備一下
+2.  打字前先依序把原生注音輸入法跟第三方輸入法都切換一次(`Control + 空白鍵`)，之後開始打字，威注音的話可以透過`Shift + 空白鍵`輸入全形空格，當需要輸入全形符號或數字時，透過按一次`Control + 空白鍵`暫時切換到macOS原生的注音輸入法輸入，之後再按一次切換回來
+
 ## 打包方式(Linux)
 
 ### Linux下如果不須更換Python版本等只須小修改內容，可以使用`--appimage-extract`指令獲得開發環境修改好再打包回去 
