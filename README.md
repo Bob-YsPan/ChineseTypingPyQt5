@@ -19,15 +19,17 @@ macOS電腦目前沒辦法那麼快取得，因此macOS的打包作業與單一�
 
 ## 截圖展示
 
-![Windows 11 01](https://user-images.githubusercontent.com/46966555/223390068-8273927d-2f3f-4e68-92e2-781728531f12.png)
-
-![Windows XP 01](https://user-images.githubusercontent.com/46966555/223389999-41c46298-acaa-49a7-9abd-62d1fee279fa.PNG)
-
-![Windows XP 02](https://user-images.githubusercontent.com/46966555/223390020-89644278-740b-491e-a287-ba9b80a37674.PNG)
-
-![Ubuntu MATE 01](https://user-images.githubusercontent.com/46966555/223390239-227d77af-3ee9-4441-9619-b3f0eb31024a.png)
-
-![macOS Catalina](https://user-images.githubusercontent.com/46966555/224923074-c7e01aa5-3aa1-4faa-8e6e-be12403160f5.png)
+* Windows 11  
+  ![Windows 11 01](https://user-images.githubusercontent.com/46966555/223390068-8273927d-2f3f-4e68-92e2-781728531f12.png)
+* Windows XP  
+  ![Windows XP 01](https://user-images.githubusercontent.com/46966555/223389999-41c46298-acaa-49a7-9abd-62d1fee279fa.PNG)
+  ![Windows XP 02](https://user-images.githubusercontent.com/46966555/223390020-89644278-740b-491e-a287-ba9b80a37674.PNG)
+* Ubuntu MATE Dark Theme(Linux)  
+  ![Ubuntu MATE 01](https://user-images.githubusercontent.com/46966555/223390239-227d77af-3ee9-4441-9619-b3f0eb31024a.png)
+* macOS Catalina  
+  ![macOS Catalina](https://user-images.githubusercontent.com/46966555/224923074-c7e01aa5-3aa1-4faa-8e6e-be12403160f5.png)
+* Manjaro Linux Dark theme  
+  ![Manjaro Linux](https://user-images.githubusercontent.com/46966555/226096520-fc31e292-fbde-4063-9532-ab05d1f406ca.png)
 
 ## 給Linux使用者的建議 Tips For Linux User
 
